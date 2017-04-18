@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Life.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Power Levels/0.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Power Levels/1.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Power Levels/2.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Power Levels/3.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Power Levels/4.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Power Levels/5.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Power Levels/6.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Power Levels/7.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Power Levels/8.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Power Levels/Max.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Power Levels/9.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Bomb.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Shield.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/A.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/B.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/Back.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/controller.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/down.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/dpad.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/LB.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/left.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/LS.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/LT.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/RB.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/right.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/RS.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/RT.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/Start.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/up.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/X.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/GamePad/Y.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/Keyboard/A.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/Keyboard/back.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/Keyboard/D.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/Keyboard/down.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/Keyboard/E.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/Keyboard/enter.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/Keyboard/esc.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/Keyboard/left.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/Keyboard/P.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/Keyboard/Q.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/Keyboard/right.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/Keyboard/S.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/Keyboard/space.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/Keyboard/up.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/KeyboardGame Pad Buttons/Keyboard/W.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/GameControls.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Pause/Exit.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Pause/MainMenu.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Pause/Resume.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Exit.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/LoadGame.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/MainMenuBackground.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/StartGame.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/Credits.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/Opening.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/ParagonBoss.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/ParagonGameplay.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/ParagonLoss.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/ParagonWin.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/RenegadeBoss.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/RenegadeGameplay.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/RenegadeLoss.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/RenegadeWin.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/SentinalBoss.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/SentinalGameplay.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/SentinalLoss.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/SentinalWin.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/VangaurdBoss.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/VangaurdGameplay.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/VangaurdLoss.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/VangaurdWin.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Backgrounds/CreditsBackground.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Backgrounds/Difficulty.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Backgrounds/EndGameWinBackground.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Backgrounds/GameplayBackground.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Backgrounds/HerStory.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Backgrounds/HisStory.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Backgrounds/LoadBackground.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Backgrounds/PauseBackground.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Backgrounds/ScoreboardBackground.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Backgrounds/TitleBackground.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Extras.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Controls.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/MainMenu.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Story.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Story/HerStory.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Story/HisStory.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Backgrounds/EndGameBackground.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Backgrounds/EndGameBackground2.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/ChooseCharacter/Her.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/ChooseCharacter/Him.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Difficulty/FemParagon.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Difficulty/FemRenegade.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Difficulty/FemSentinel.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Difficulty/FemVangaurd.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Difficulty/MaleParagon.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Difficulty/MaleRenegade.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Difficulty/MaleSentinel.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Difficulty/MaleVangaurd.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Fonts/Score/ScoreFourK.spritefont</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Fonts/Score/ScoreFullHD.spritefont</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Fonts/Score/ScoreHD.spritefont</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Fonts/Score/ScoreHDPlus.spritefont</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Fonts/Score/ScoreStandard.spritefont</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Fonts/Salutation.spritefont</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Right Panel/Right Panel 0.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Right Panel/Right Panel 1.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Right Panel/Right Panel 2.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Right Panel/Right Panel 3.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Right Panel/Right Panel 4.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Right Panel/Right Panel 5.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Right Panel/Right Panel 6.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Right Panel/Right Panel 7.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Right Panel/Right Panel 8.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Right Panel/Right Panel 9.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Dashboard Components/Right Panel/Right Panel Max.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Lose/Scoreboard.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Pause/Scoreboard.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Lose/Exit.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Lose/MainMenu.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Lose/PlayAgain.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Ship/Ship.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Laser Ship/LaserShip1.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Laser Ship/LaserShip2.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Laser Ship/LaserShip3.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Laser Ship/LaserShip4.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Laser Ship/LaserShip5.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Laser Ship/LaserShip6.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Laser Ship/LaserShip7.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Laser Ship/LaserShip8.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Seeker Ship/E.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Seeker Ship/N.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Seeker Ship/NE.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Seeker Ship/NW.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Seeker Ship/S.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Seeker Ship/SE.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Seeker Ship/SeekerShipE.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Seeker Ship/SeekerShipN.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Seeker Ship/SeekerShipNE.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Seeker Ship/SeekerShipNW.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Seeker Ship/SeekerShipS.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Seeker Ship/SeekerShipSE.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Seeker Ship/SeekerShipSW.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Seeker Ship/SeekerShipW.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Seeker Ship/SW.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Seeker Ship/W.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Third Type Ship/FromLeft.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Third Type Ship/FromRight.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Third Type Ship/ShipFromLeft.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Third Type Ship/ShipFromRight.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Enemies/Boss.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Plasmaball.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Win/Exit.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Win/MainMenu.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Win/PlayAgain.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/Win/Scoreboard.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/Music/1.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/Music/2.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/Music/3.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/Music/4.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/Music/5.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/Music/6.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/Music/7.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/Music/8.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/Music/9.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/Music/Max.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/Music/Mute.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/SFX/1.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/SFX/2.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/SFX/3.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/SFX/4.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/SFX/5.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/SFX/6.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/SFX/7.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/SFX/8.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/SFX/9.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/SFX/Max.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Selected/SFX/Mute.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/Music.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio/SFX.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/EnemySpeed/1.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/EnemySpeed/2.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/EnemySpeed/3.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/EnemySpeed/4.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/EnemySpeed/Max.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/Player/Player-Selected-FemShep.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/Player/Player-Selected-MaleShep.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/PlayerSpeed/1.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/PlayerSpeed/2.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/PlayerSpeed/3.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/PlayerSpeed/4.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/PlayerSpeed/5.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/PlayerSpeed/6.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/PlayerSpeed/7.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/PlayerSpeed/8.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/PlayerSpeed/9.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Selected/PlayerSpeed/Max.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/EnemySpeedFactor.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/Player.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game/PlayerSpeed.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/Brightness/1.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/Brightness/2.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/Brightness/3.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/Brightness/4.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/Brightness/5.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/Brightness/6.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/Brightness/7.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/Brightness/8.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/Brightness/9.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/Brightness/Max.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/DisplayMode/Fullscreen.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/DisplayMode/Windowed.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/ScreenResolution/FourK.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/ScreenResolution/FullHD.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/ScreenResolution/HD.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/ScreenResolution/HDPlus.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Selected/ScreenResolution/Standard.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/Brightness.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/DisplayMode.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video/ScreenResolution.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Audio.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Game.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Settings.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Settings/Video.png</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Menu Items/Components/MainMenu/Options/Controls/Controls.jpg</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/SoundEffects/Enemy-Bullet.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/SoundEffects/Explosion.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/SoundEffects/Lazer-Bullet.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/SoundEffects/Menu-Advance.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/SoundEffects/Menu-Select.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/SoundEffects/Player-Bullet.wav</File>
+    <File>C:/Users/Adam/Desktop/RepBitFam/SpaceBHGame/SpaceBHGame/Content/Gameplay Components/Music/SoundEffects/Back.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

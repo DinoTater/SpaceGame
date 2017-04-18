@@ -1,0 +1,61 @@
+UI Features
+	- State-based API
+		- Main Menu
+			- Start Game
+			- Load Previous Game
+			- Options
+				- Story
+				- Controls
+				- Settings
+					- Game
+						- Player (FemShep or MaleShep)
+						- Player Speed
+					- Audio
+						- Music Volume/Mute Toggle
+						- SX Volume/Mute Toggle
+					- Video
+						- Brightness
+						- Display Mode
+							- Windowed
+							- Full Screen (Will be difficult)
+						- Resolution
+			- Exit App
+			- Debug Mode Toggle
+		- Pre-Game
+			- Difficulty
+				- Easy - Paragon
+				- Medium - Sentinal
+				- Hard - Vangaurd
+				- Insane - Renegade
+				- Custom
+					- Allows user to fully customize game
+			- Debug Mode Toggle
+			- Online Mode Toggle
+		- Game
+			- Game border
+			- Game stuff
+		- Pause
+			- Resume
+			- Save
+			- Load
+			- Main Menu
+				- Prompt to save
+			- Exit
+				- Prompt to save
+		- Win
+			- Play Again
+				- Go to Pre-Game state
+			- Save Score?
+				- Prompt for Username
+			- Main Menu
+			- Exit
+		- Lose
+			- Play Again
+				- Go to Pre-Game state
+			- Main Menu
+			- Exit
+		- Scoreboard
+			- Online/Offline Toggle
+				- List top 10 on each
+			- Main Menu
+			- Exit

@@ -1,0 +1,930 @@
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SpaceBHGame.exe.config
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\CreditsBackground.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\Difficulty.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\EndGameBackground.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\EndGameBackground2.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\EndGameWinBackground.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\GameplayBackground.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\HerStory.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\HisStory.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\LoadBackground.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\PauseBackground.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\ScoreboardBackground.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\TitleBackground.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Plasmaball.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Bomb.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Life.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Shield.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Salutation.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreFourK.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreFullHD.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreHD.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreHDPlus.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreStandard.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\0.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\1.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\2.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\3.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\4.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\5.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\6.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\7.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\8.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\9.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\Max.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 0.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 1.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 2.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 3.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 4.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 5.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 6.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 7.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 8.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 9.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel Max.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Boss.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Laser Ship\LaserShip1.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Laser Ship\LaserShip2.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Laser Ship\LaserShip3.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Laser Ship\LaserShip4.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Laser Ship\LaserShip5.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Laser Ship\LaserShip6.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Laser Ship\LaserShip7.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Laser Ship\LaserShip8.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\E.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\N.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\NE.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\NW.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\S.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SE.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SeekerShipE.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SeekerShipN.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SeekerShipNE.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SeekerShipNW.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SeekerShipS.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SeekerShipSE.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SeekerShipSW.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SeekerShipW.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SW.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\W.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Third Type Ship\FromLeft.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Third Type Ship\FromRight.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Third Type Ship\ShipFromLeft.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Third Type Ship\ShipFromRight.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\Credits.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\Opening.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\ParagonBoss.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\ParagonGameplay.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\ParagonLoss.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\ParagonWin.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\RenegadeBoss.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\RenegadeGameplay.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\RenegadeLoss.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\RenegadeWin.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SentinalBoss.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SentinalGameplay.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SentinalLoss.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SentinalWin.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\VangaurdBoss.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\VangaurdGameplay.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\VangaurdLoss.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\VangaurdWin.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Ship\Ship.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\GameControls.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\ChooseCharacter\Her.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\ChooseCharacter\Him.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\FemParagon.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\FemRenegade.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\FemSentinel.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\FemVangaurd.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\MaleParagon.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\MaleRenegade.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\MaleSentinel.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\MaleVangaurd.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Lose\Exit.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Lose\MainMenu.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Lose\PlayAgain.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Lose\Scoreboard.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Exit.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Extras.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\LoadGame.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\MainMenuBackground.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\StartGame.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Controls.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\MainMenu.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Story.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Story\HerStory.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Story\HisStory.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Pause\Exit.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Pause\MainMenu.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Pause\Resume.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Pause\Scoreboard.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Win\Exit.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Win\MainMenu.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Win\PlayAgain.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\A.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\B.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\Back.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\controller.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\down.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\dpad.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\LB.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\left.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\LS.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\LT.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\RB.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\right.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\RS.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\RT.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\Start.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\up.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\X.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\Y.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\A.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\back.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\D.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\down.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\E.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\enter.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\esc.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\left.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\P.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\Q.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\right.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\S.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\space.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\up.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\W.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\CreditsBackground.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\Difficulty.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\EndGameWinBackground.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\GameplayBackground.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\HerStory.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\HisStory.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\LoadBackground.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\MainMenu.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\PauseBackground.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\ScoreboardBackground.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Bomb.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Life.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\0.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\1.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\2.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\3.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\4.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\5.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\6.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\7.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\8.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\9.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\Max.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panelxz.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 0.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 1.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 2.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 3.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 4.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 5.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 6.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 7.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 8.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 9.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel Max.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Shield.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\Credits.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\Opening.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\ParagonBoss.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\ParagonGameplay.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\ParagonLoss.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\ParagonWin.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\RenegadeBoss.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\RenegadeGameplay.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\RenegadeLoss.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\RenegadeWin.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SentinalBoss.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SentinalGameplay.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SentinalLoss.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SentinalWin.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\VangaurdBoss.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\VangaurdGameplay.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\VangaurdLoss.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\VangaurdWin.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Plasmaball.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\ChooseCharacter\Her.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\ChooseCharacter\Him.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\FemParagon.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\FemRenegade.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\FemSentinel.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\FemVangaurd.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\MaleParagon.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\MaleRenegade.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\MaleSentinel.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\MaleVangaurd.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Lose\Exit.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Lose\MainMenu.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Lose\PlayAgain.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Lose\Scoreboard.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Exit.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Extras.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\LoadGame.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\MainMenuBackground.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Controls.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\MainMenu.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Story.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Story\HerStory.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Story\HisStory.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\StartGame.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Pause\Exit.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Pause\MainMenu.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Pause\Resume.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Pause\Scoreboard.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\A.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\B.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\Back.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\controller.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\controller360.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\down.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\dpad.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\LB.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\left.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\LS.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\LT.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\RB.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\right.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\RS.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\RT.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\Start.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\up.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\X.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\Y.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\A.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\back.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\D.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\down.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\E.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\enter.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\esc.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\left.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\P.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\Q.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\right.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\S.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\space.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\up.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\W.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\z.png
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Salutation.spritefont
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreFourK.spritefont
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreFullHD.spritefont
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreHD.spritefont
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreHDPlus.spritefont
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreStandard.spritefont
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SpaceBHGame.exe
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SpaceBHGame.pdb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\obj\x86\Debug\SpaceBHGame.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\obj\x86\Debug\SpaceBHGame.exe
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\obj\x86\Debug\SpaceBHGame.pdb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Back.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Enemy-Bullet.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Explosion.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Lazer-Bullet.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Menu-Advance.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Menu-Select.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Player-Bullet.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Controls\Controls.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Settings.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Music.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\SFX.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\1.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\2.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\3.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\4.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\5.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\6.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\7.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\8.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\9.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\Max.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\Mute.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\1.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\2.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\3.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\4.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\5.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\6.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\7.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\8.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\9.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\Max.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\Mute.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\EnemySpeedFactor.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Player.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\PlayerSpeed.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\1.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\2.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\3.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\4.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\Max.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\Player\Player-Selected-FemShep.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\Player\Player-Selected-MaleShep.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\1.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\2.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\3.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\4.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\5.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\6.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\7.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\8.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\9.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\Max.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Brightness.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\DisplayMode.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\ScreenResolution.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\1.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\2.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\3.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\4.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\5.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\6.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\7.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\8.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\9.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\Max.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\DisplayMode\Fullscreen.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\DisplayMode\Windowed.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\FourK.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\FullHD.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\HD.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\HDPlus.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\Standard.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Win\Scoreboard.xnb
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Enemy-Bullet.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Explosion.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Lazer-Bullet.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Menu-Advance.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Menu-Select.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Player-Bullet.wav
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Controls\Controls.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Music.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\1.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\2.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\3.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\4.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\5.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\6.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\7.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\8.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\9.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\Max.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\Mute.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\1.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\2.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\3.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\4.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\5.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\6.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\7.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\8.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\9.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\Max.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\Mute.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\SFX.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\EnemySpeedFactor.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Player.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\PlayerSpeed.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\1.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\2.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\3.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\4.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\Max.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\1.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\2.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\3.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\4.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\5.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\6.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\7.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\8.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\9.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\Max.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\Player\Player-Selected-FemShep.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\Player\Player-Selected-MaleShep.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Brightness.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\DisplayMode.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\ScreenResolution.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\1.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\2.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\3.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\4.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\5.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\6.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\7.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\8.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\9.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\Max.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\DisplayMode\Fullscreen.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\DisplayMode\Windowed.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\FourK.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\FullHD.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\HD.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\HDPlus.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\Standard.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Win\Exit.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Win\MainMenu.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Win\PlayAgain.jpg
+C:\Users\Adam\Desktop\CS487\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Win\Scoreboard.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SpaceBHGame.exe.config
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\obj\x86\Debug\SpaceBHGame.exe
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\obj\x86\Debug\SpaceBHGame.pdb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\beam copy.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\long_beam_clear_back.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Bullets\Plasmaball.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Ship\Ship1.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\CreditsBackground.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\Difficulty.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\EndGameBackground.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\EndGameBackground2.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\EndGameWinBackground.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\GameplayBackground.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\HerStory.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\HisStory.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\LoadBackground.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\PauseBackground.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\ScoreboardBackground.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\TitleBackground.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Plasmaball.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Bomb.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Life.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Shield.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Salutation.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreFourK.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreFullHD.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreHD.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreHDPlus.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreStandard.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\0.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\1.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\2.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\3.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\4.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\5.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\6.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\7.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\8.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\9.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\Max.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 0.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 1.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 2.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 3.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 4.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 5.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 6.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 7.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 8.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 9.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel Max.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Boss.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Laser Ship\LaserShip1.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Laser Ship\LaserShip2.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Laser Ship\LaserShip3.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Laser Ship\LaserShip4.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Laser Ship\LaserShip5.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Laser Ship\LaserShip6.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Laser Ship\LaserShip7.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Laser Ship\LaserShip8.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\E.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\N.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\NE.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\NW.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\S.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SE.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SeekerShipE.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SeekerShipN.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SeekerShipNE.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SeekerShipNW.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SeekerShipS.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SeekerShipSE.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SeekerShipSW.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SeekerShipW.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\SW.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Seeker Ship\W.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Third Type Ship\FromLeft.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Third Type Ship\FromRight.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Third Type Ship\ShipFromLeft.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Enemies\Third Type Ship\ShipFromRight.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\Credits.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\Opening.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\ParagonBoss.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\ParagonGameplay.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\ParagonLoss.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\ParagonWin.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\RenegadeBoss.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\RenegadeGameplay.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\RenegadeLoss.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\RenegadeWin.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SentinalBoss.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SentinalGameplay.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SentinalLoss.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SentinalWin.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\VangaurdBoss.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\VangaurdGameplay.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\VangaurdLoss.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\VangaurdWin.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Back.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Enemy-Bullet.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Explosion.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Lazer-Bullet.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Menu-Advance.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Menu-Select.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Player-Bullet.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Ship\Ship.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\GameControls.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\ChooseCharacter\Her.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\ChooseCharacter\Him.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\FemParagon.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\FemRenegade.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\FemSentinel.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\FemVangaurd.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\MaleParagon.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\MaleRenegade.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\MaleSentinel.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\MaleVangaurd.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Lose\Exit.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Lose\MainMenu.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Lose\PlayAgain.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Lose\Scoreboard.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Exit.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Extras.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\LoadGame.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\MainMenuBackground.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\StartGame.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Controls.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\MainMenu.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Story.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Controls\Controls.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Settings.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Music.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\SFX.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\1.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\2.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\3.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\4.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\5.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\6.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\7.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\8.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\9.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\Max.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\Mute.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\1.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\2.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\3.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\4.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\5.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\6.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\7.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\8.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\9.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\Max.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\Mute.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\EnemySpeedFactor.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Player.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\PlayerSpeed.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\1.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\2.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\3.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\4.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\Max.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\Player\Player-Selected-FemShep.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\Player\Player-Selected-MaleShep.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\1.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\2.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\3.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\4.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\5.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\6.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\7.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\8.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\9.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\Max.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Brightness.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\DisplayMode.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\ScreenResolution.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\1.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\2.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\3.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\4.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\5.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\6.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\7.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\8.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\9.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\Max.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\DisplayMode\Fullscreen.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\DisplayMode\Windowed.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\FourK.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\FullHD.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\HD.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\HDPlus.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\Standard.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Story\HerStory.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Story\HisStory.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Pause\Exit.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Pause\MainMenu.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Pause\Resume.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Pause\Scoreboard.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Win\Exit.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Win\MainMenu.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Win\PlayAgain.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Win\Scoreboard.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\A.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\B.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\Back.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\controller.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\down.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\dpad.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\LB.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\left.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\LS.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\LT.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\RB.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\right.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\RS.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\RT.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\Start.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\up.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\X.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\Y.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\A.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\back.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\D.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\down.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\E.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\enter.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\esc.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\left.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\P.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\Q.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\right.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\S.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\space.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\up.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\W.xnb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\CreditsBackground.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\Difficulty.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\EndGameWinBackground.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\GameplayBackground.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\HerStory.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\HisStory.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\LoadBackground.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\MainMenu.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\PauseBackground.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Backgrounds\ScoreboardBackground.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Bomb.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Life.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\0.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\1.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\2.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\3.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\4.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\5.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\6.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\7.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\8.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\9.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Power Levels\Max.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panelxz.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 0.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 1.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 2.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 3.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 4.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 5.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 6.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 7.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 8.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 9.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel Max.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Shield.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\Credits.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\Opening.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\ParagonBoss.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\ParagonGameplay.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\ParagonLoss.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\ParagonWin.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\RenegadeBoss.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\RenegadeGameplay.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\RenegadeLoss.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\RenegadeWin.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SentinalBoss.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SentinalGameplay.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SentinalLoss.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SentinalWin.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Enemy-Bullet.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Explosion.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Lazer-Bullet.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Menu-Advance.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Menu-Select.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\SoundEffects\Player-Bullet.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\VangaurdBoss.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\VangaurdGameplay.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\VangaurdLoss.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Music\VangaurdWin.wav
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Plasmaball.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\ChooseCharacter\Her.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\ChooseCharacter\Him.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\FemParagon.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\FemRenegade.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\FemSentinel.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\FemVangaurd.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\MaleParagon.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\MaleRenegade.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\MaleSentinel.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Difficulty\MaleVangaurd.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Lose\Exit.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Lose\MainMenu.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Lose\PlayAgain.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Lose\Scoreboard.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Exit.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Extras.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\LoadGame.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\MainMenuBackground.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Controls.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Controls\Controls.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\MainMenu.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Music.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\1.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\2.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\3.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\4.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\5.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\6.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\7.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\8.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\9.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\Max.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\Music\Mute.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\1.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\2.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\3.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\4.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\5.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\6.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\7.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\8.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\9.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\Max.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\Selected\SFX\Mute.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Audio\SFX.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\EnemySpeedFactor.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Player.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\PlayerSpeed.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\1.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\2.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\3.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\4.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\EnemySpeed\Max.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\1.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\2.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\3.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\4.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\5.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\6.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\7.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\8.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\9.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\PlayerSpeed\Max.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\Player\Player-Selected-FemShep.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Game\Selected\Player\Player-Selected-MaleShep.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Brightness.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\DisplayMode.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\ScreenResolution.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\1.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\2.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\3.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\4.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\5.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\6.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\7.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\8.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\9.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\Brightness\Max.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\DisplayMode\Fullscreen.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\DisplayMode\Windowed.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\FourK.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\FullHD.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\HD.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\HDPlus.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Settings\Video\Selected\ScreenResolution\Standard.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Story.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Story\HerStory.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\Options\Story\HisStory.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\MainMenu\StartGame.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Pause\Exit.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Pause\MainMenu.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Pause\Resume.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Pause\Scoreboard.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Win\Exit.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Win\MainMenu.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Win\PlayAgain.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\Components\Win\Scoreboard.jpg
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\A.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\B.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\Back.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\controller.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\controller360.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\down.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\dpad.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\LB.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\left.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\LS.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\LT.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\RB.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\right.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\RS.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\RT.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\Start.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\up.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\X.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\GamePad\Y.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\A.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\back.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\D.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\down.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\E.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\enter.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\esc.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\left.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\P.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\Q.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\right.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\S.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\space.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\up.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\W.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\z.png
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Salutation.spritefont
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreFourK.spritefont
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreFullHD.spritefont
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreHD.spritefont
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreHDPlus.spritefont
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreStandard.spritefont
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SpaceBHGame.exe
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SpaceBHGame.pdb
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Adam\Desktop\RepBitFam\SpaceBHGame\SpaceBHGame\obj\x86\Debug\SpaceBHGame.csprojResolveAssemblyReference.cache

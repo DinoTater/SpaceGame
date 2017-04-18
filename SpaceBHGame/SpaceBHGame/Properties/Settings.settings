@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SpaceBHGame.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Gender" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Female</Value>
+    </Setting>
+    <Setting Name="MusicVolume" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.5</Value>
+    </Setting>
+    <Setting Name="DisplayMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Windowed</Value>
+    </Setting>
+    <Setting Name="Brightness" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="NewCharacter" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PlayerSpeed" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="EnemySpeed" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="SFXVolume" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.5</Value>
+    </Setting>
+    <Setting Name="Resolution" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HD</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

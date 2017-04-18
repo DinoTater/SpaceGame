@@ -1,0 +1,525 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{54056260-E22A-45EE-961F-8B0AF4025603}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SpaceBHGame</RootNamespace>
+    <AssemblyName>SpaceBHGame</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MonoGamePlatform>Windows</MonoGamePlatform>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Content\Player\Animation.cs" />
+    <Compile Include="Content\Player\Enemy.cs" />
+    <Compile Include="Game1.cs" />
+<<<<<<< HEAD
+    <Compile Include="Player\Bullet.cs" />
+=======
+    <Compile Include="Content\Player\Player.cs" />
+>>>>>>> 4e1970f273096728d703f7f03448fee4bd980fc9
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Content\Player\Gameplay.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="UI Control\ScoreboardControl.cs" />
+    <Compile Include="UI Control\UIControl.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\Windows\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\Backgrounds\CreditsBackground.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Backgrounds\Difficulty.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Backgrounds\EndGameWinBackground.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Backgrounds\GameplayBackground.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Backgrounds\HerStory.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Backgrounds\HisStory.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Backgrounds\LoadBackground.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Backgrounds\MainMenu.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Backgrounds\PauseBackground.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Backgrounds\ScoreboardBackground.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Bomb.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Life.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Power Levels\0.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Power Levels\1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Power Levels\2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Power Levels\3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Power Levels\4.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Power Levels\5.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Power Levels\6.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Power Levels\7.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Power Levels\8.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Power Levels\9.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Power Levels\Max.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Right Panelxz.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 0.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 4.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 5.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 6.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 7.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 8.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel 9.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Right Panel\Right Panel Max.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Dashboard Components\Shield.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Enemies\Boss.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Laser Ship\1.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Laser Ship\2.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Laser Ship\3.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Laser Ship\4.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Laser Ship\5.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Laser Ship\6.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Laser Ship\7.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Laser Ship\8.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Seeker Ship\N.jpg" />
+    <Content Include="Content\Gameplay Components\Enemies\Seeker Ship\E.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Seeker Ship\NE.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Seeker Ship\NW.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Seeker Ship\S.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Seeker Ship\SE.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Seeker Ship\SW.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Seeker Ship\W.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Third Type Ship\FromLeft.png" />
+    <Content Include="Content\Gameplay Components\Enemies\Third Type Ship\FromRight.png" />
+    <Content Include="Content\Gameplay Components\Music\Credits.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\Opening.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\ParagonBoss.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\ParagonGameplay.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\ParagonLoss.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\ParagonWin.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\RenegadeBoss.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\RenegadeGameplay.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\RenegadeLoss.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\RenegadeWin.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\SentinalBoss.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\SentinalGameplay.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\SentinalLoss.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\SentinalWin.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\VangaurdBoss.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\VangaurdGameplay.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\VangaurdLoss.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Music\VangaurdWin.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Gameplay Components\Shield\1.png" />
+    <Content Include="Content\Gameplay Components\Shield\2.png" />
+    <Content Include="Content\Gameplay Components\Shield\3.png" />
+    <Content Include="Content\Gameplay Components\Shield\4.png" />
+    <Content Include="Content\Gameplay Components\Shield\5.png" />
+    <Content Include="Content\Gameplay Components\Shield\6.png" />
+    <Content Include="Content\Gameplay Components\Shield\7.png" />
+    <Content Include="Content\Gameplay Components\Shield\8.png" />
+    <Content Include="Content\Gameplay Components\Ship\Ship1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\ChooseCharacter\Her.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\ChooseCharacter\Him.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Difficulty\FemParagon.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Difficulty\FemRenegade.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Difficulty\FemSentinel.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Difficulty\FemVangaurd.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Difficulty\MaleParagon.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Difficulty\MaleRenegade.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Difficulty\MaleSentinel.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Difficulty\MaleVangaurd.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\GameControls.png" />
+    <Content Include="Content\Menu Items\Components\Lose\Exit.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Lose\MainMenu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Lose\PlayAgain.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Lose\Scoreboard.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\MainMenu\Exit.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\MainMenu\Extras.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\MainMenu\LoadGame.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\MainMenu\MainMenuBackground.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\MainMenu\Options.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\MainMenu\Options\Controls.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\MainMenu\Options\MainMenu.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\MainMenu\Options\Settings.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\MainMenu\Options\Story.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\MainMenu\Options\Story\HerStory.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\MainMenu\Options\Story\HisStory.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\MainMenu\StartGame.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Pause\Exit.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Pause\MainMenu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Pause\Resume.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Pause\Scoreboard.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Win\Exit.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Win\MainMenu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\Components\Win\PlayAgain.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\A.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\B.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\Back.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\controller.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\controller360.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\down.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\dpad.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\LB.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\left.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\LS.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\LT.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\RB.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\right.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\RS.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\RT.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\Start.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\up.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\X.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\GamePad\Y.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\A.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\back.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\D.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\down.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\E.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\enter.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\esc.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\left.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\P.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\Q.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\right.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\S.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\space.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\up.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\W.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Menu Items\KeyboardGame Pad Buttons\Keyboard\z.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="Content\Content.mgcb" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Content\Gameplay Components\Dashboard Components\Fonts\Salutation.spritefont">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\Gameplay Components\Dashboard Components\Fonts\Salutation.xnb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreFourK.spritefont">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreFourK.xnb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreFullHD.spritefont">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreFullHD.xnb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreHD.spritefont">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreHD.xnb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreHDPlus.spritefont">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreHDPlus.xnb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreStandard.spritefont">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\Gameplay Components\Dashboard Components\Fonts\Score\ScoreStandard.xnb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Content.Builder.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

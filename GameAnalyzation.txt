@@ -1,0 +1,66 @@
+Game Analyzation:
+- Basic Game Play Stuffs - 
+* Enemies shoot various bullets
+* Player moves left, right, up, and down to avoid the enemy bullets using arrow keys
+* Player shoots bomb using X key. Bombs destroy bullets and takes 1 power-up.
+* Player shoots bullets at enemies using key Z
+* Ctrl button speeds up/skips dialoge 
+* Power-ups increases power by .05
+* Player death results in a loss of power-ups
+* There are red, blue, and green things you can pickup
+   * Red means more power
+   * Blue means more points
+   * Green means an increase in the lower left bar
+* Shift changes speed, pickup range, and changes to another firing mode
+
+- Start of Game - 
+
+- Wave of Enemies - 
+* 14 small enemies spawn in top left, when they leave...
+* 5 small enemies spawn in top right (these enemies are just kinda flying around, no shooting)
+* Big fairy enemy spawns from right, shoots 4 bursts of 6 triangle bullets each
+* 5 small enemies spawn from right, 5 enemies spawn from left (they just fly around, don't shoot or anything)
+* Big fairy enemy spawns from right, shoots 4 bursts of 6 triangle bullets each
+* (x2) 5 small enemies spawn from right and then they spawn again from both the left and right
+* 5 small enemies smawn in middle and go to the left
+* Big fairy enemy spawns
+* 10 small enemies spawn, 5 from the left, 5 from the right
+
+* Enemies start shooting at the player:
+  * 7 small enemies spawn
+  * 8 more small enemies spawn in two groups of 4 each
+  * repeat the above
+* All groups of enemies form a line and leave
+* First boss shows up
+* A group of big fairies show up
+* A whole bunch of small enemies rain in
+* Dialogue for first boss starts
+
+- First Boss (25 seconds to kill first boss)- 
+* Has two types of shooting, fan and burst
+  * Fan: 6 bullets, 3 groups each
+  * Burst: 16 bullets, 3 groups each
+* If boss is defeated before 25 seconds, small enemies spawn on at a time
+
+- Final Boss (4 rounds) - 
+Stage 1:
+* Bullets are shot in spirals
+* 16 blue in round formation, straight, then spiral
+* 100ish diamond bullets in rope formation in two groups that go around the boss
+
+Stage 2:
+* 28 blue diamond bullets are shot straight out, then spawn red and blue diamond bullets
+* Bullets change direction and spiral out
+* Repeat and then leave screen
+
+Stage 3:
+* 16 blue round bullets in spirals that go out and in in two groups and then meet back as one
+* 100 red bullets in rope form all together
+
+Stage 4:
+* Random amount of red diamond bullets shot that spiral around boss
+* Random 8 beams shot around
+
+* Final dialogue, game is over
+
+
